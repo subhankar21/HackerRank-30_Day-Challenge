@@ -7,10 +7,9 @@
 <br>
 <br>
 
-```diff
-```
+
 # IMPORTANT REMARKS
 
 ```diff
-The reprisotory will be updated regularly. Please use the solution as a reference guiding material. Not for the submission in the challenge
+- The reprisotory will be updated regularly. Please use the solution as a reference guiding material. Not for the submission in the challenge
 ```
