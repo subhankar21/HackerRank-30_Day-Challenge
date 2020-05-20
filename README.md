@@ -8,9 +8,9 @@
 <br>
 
 ```diff
-+ this will be highlighted in green
-- this will be highlighted in red
 ```
-# <font color="red"> IMPORTANT REMARKS </font>
+# IMPORTANT REMARKS
 
+```diff
 The reprisotory will be updated regularly. Please use the solution as a reference guiding material. Not for the submission in the challenge
+```
